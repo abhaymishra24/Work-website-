@@ -1,5 +1,5 @@
 # Website-(for showcasing professional work and yourself)
-This is a professional portfolio website where you can showcase your professional work, including information about yourself, your experiences, your contributions, your projects, your contact details, and your CV/resume. I am still updating and adding new sections to this website. 🚀
+This is a professional portfolio website where you can showcase your professional work, including information about yourself, your experiences, your contributions, your projects, your contact details, and your CV/resume 💻. I am still updating and adding new sections to this website. 🚀
 
 <-- Website link coming soon -->
 
@@ -8,7 +8,7 @@ This is a professional portfolio website where you can showcase your professiona
 - (HTML)
 - (CSS)
 
-## build one for yourself 🚀
+## Build one for yourself 🚀
 
 - (Fork this repository.)
 - (Clone the repository in your device.)
@@ -18,6 +18,9 @@ This is a professional portfolio website where you can showcase your professiona
 - (GitHub will take some time to deploy your website. After that, your website will be live through GitHub. Then, go to the Pages section to find your website link at the top.)
 - (Now your personal website is ready and live.🥳💻)
 - (Use that website to mention it on your CV/resume and LinkedIn. 💻)
+
+## 😊 Thank you for visiting this repository-
+- Feel free to explore my other repositories and reach out to me for collaborations or discussions on new idea and projects.🤝😊🚀
 
 
 
