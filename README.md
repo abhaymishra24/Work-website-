@@ -3,6 +3,8 @@ This is a professional portfolio website where you can showcase your professiona
 
 <-- Website link coming soon -->
 
+<-- Work in progress on the project 🚀 -->
+
 ## Tech Stack 
 - (JavaScript)
 - (HTML)
