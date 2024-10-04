@@ -411,7 +411,7 @@ section .title::after{
 }
 
  
-/* .skills .skills-content .right .bars{
+.skills .skills-content .right .bars{
     color: white;
  margin-bottom: 15px;
 }
@@ -554,7 +554,7 @@ section .title::after{
 .contact .right form .button button:hover{
     background: none;
     color: #23b410;
-} */
+}
 
 /* footer styling */
 footer{
