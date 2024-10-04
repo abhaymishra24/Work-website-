@@ -23,7 +23,7 @@ This is a professional portfolio website where you can showcase your professiona
 - (Use that website to mention it on your CV/resume and LinkedIn. 💻)
 
 ## 😊 Thank you for visiting this repository-
-- Feel free to explore my other repositories and reach out to me for collaborations or discussions on new idea and projects.🤝😊🚀
+- Feel free to explore my other repositories and reach out to me for collaborations or discussions on new ideas and projects.🤝😊🚀
 
 
 
