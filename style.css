@@ -450,8 +450,8 @@ section .title::after{
  } */
 
  /* contact section styling */
- 
- /* .contact{
+  
+  .contact{
     background: url("images/leaves_bushes_green_174515_3840x2400.jpg");
     background-size: 2000px;
  }
@@ -554,7 +554,7 @@ section .title::after{
 .contact .right form .button button:hover{
     background: none;
     color: #23b410;
-}
+} */
 
 /* footer styling */
 footer{
