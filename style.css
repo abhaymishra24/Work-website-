@@ -607,7 +607,7 @@ footer i:hover{
 
 #btnScrollToTop:active, #btnScrollToTop:hover{
     background: #124429;
-    box-shadow: 0px 0px 20px black;
+    box-shadow: 0px 0px 20px rgb(119, 190, 140);
 }
 
 .progress-container {
@@ -693,7 +693,7 @@ footer i:hover{
         width: 100%;
         left:-100%;
         top: 0;
-        background: black;
+        background: rgb(189, 76, 157);
         text-align: center;
         padding-top: 80px;
         transition: all 0.3s ease;
