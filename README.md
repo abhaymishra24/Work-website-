@@ -24,7 +24,3 @@ This is a professional portfolio website where you can showcase your professiona
 
 ## 😊 Thank you for visiting this repository-
 - Feel free to explore my other repositories and reach out to me for collaborations or discussions on new ideas and projects.🤝😊🚀
-
-
-
- 
