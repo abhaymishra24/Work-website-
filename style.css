@@ -597,7 +597,7 @@ footer i:hover{
     height: 50px;
     border-radius: 50%;
     background: #124429;
-    box-shadow: 0 0 10px rgba(0, 0, 0,0.1);
+    box-shadow: 0 0 10px rgba(250, 5, 5, 0.856);
     color: #25e70c;
     border: none;
     outline: none;
@@ -640,7 +640,7 @@ footer i:hover{
   
   /* Track */
   ::-webkit-scrollbar-track {
-    background: #000; 
+    background: #d9dc08; 
   }
    
   /* Handle */
